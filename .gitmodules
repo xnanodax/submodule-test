@@ -1,3 +1,6 @@
 [submodule "3d_shapes"]
 	path = 3d_shapes
 	url = https://github.com/xnanodax/test_my_shapes
+[submodule "test_my_shapes"]
+	path = test_my_shapes
+	url = https://github.com/xnanodax/test_my_shapes
